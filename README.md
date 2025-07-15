@@ -46,3 +46,5 @@ proct -h -n bash
 ```sh
 sudo make uninstall
 ```
+
+Creators: João & Raidboy
